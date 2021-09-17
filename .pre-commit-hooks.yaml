@@ -1,4 +1,4 @@
-- id: conda-clang-format
+- id: clang-format
   name: Conda Clang-Format
   entry: clang-format
   language: conda
