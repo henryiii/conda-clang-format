@@ -1,0 +1,6 @@
+- id: clang-format
+  name: Clang Format
+  entry: clang-format
+  language: conda
+  types: [c++]
+  args: [-style=file, -i]

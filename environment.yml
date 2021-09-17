@@ -1,0 +1,5 @@
+name: conda-clang-format
+channels:
+  - conda-forge
+dependencies:
+  - clang-format==12.0.1
